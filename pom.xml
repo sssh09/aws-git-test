@@ -9,9 +9,15 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
+<<<<<<< HEAD
 	<artifactId>aws-git-test</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>aws-git-test</name>
+=======
+	<artifactId>aws-git-teset</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>aws-git-teset</name>
+>>>>>>> branch 'master' of https://github.com/sssh09/aws-git-test.git
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
